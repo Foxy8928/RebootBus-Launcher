@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/rWrhVMu)
+![Banner](https://imgur.com/a/rWrhVMu.png)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Auties00/Reboot-Launcher/total)
 
